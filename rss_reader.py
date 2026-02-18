@@ -15,7 +15,7 @@ def load_keywords(filename="keywords.txt"):
         return []
 
 def main():
-    print("🔎 NJ & Bergen County News – Keyword Filtered (saved keywords)")
+    print("🔎 avviso: NJ & Bergen County News – Keyword Filtered (saved keywords)")
 
     keywords = load_keywords()
 

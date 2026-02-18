@@ -1,6 +1,6 @@
-# NJ Local News CLI RSS Reader
+# avviso
 
-A command-line tool to scrape and filter RSS headlines for Bergen County and New Jersey news.
+Avviso is a command-line tool to scrape and filter RSS headlines for Bergen County and New Jersey news.
 
 ## Features
 - Filters headlines by keyword
@@ -11,4 +11,3 @@ A command-line tool to scrape and filter RSS headlines for Bergen County and New
 
 ```bash
 python rss_reader.py
-
